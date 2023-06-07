@@ -2,6 +2,8 @@
 
 [ECML PKDD 2023]This is a Pytorch and DGL implementation of the following paper : "FDTI: Fine-grained Deep Traffic Inference with Roadnet-enriched Graph".
 
+## Data
+Please download the Manhattan data from https://drive.google.com/file/d/1TxVluhAEU3oFhlzoXq6FxmP7TTJjOuZG/view?usp=sharing and unzip it in `./data` folder
 
 ## Directory
 The Root is described as below
